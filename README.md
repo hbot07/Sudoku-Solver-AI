@@ -5,7 +5,13 @@ Consider the Sudoku puzzle as pictured below. There are 81 variables in total, i
 
 ## Execution
 $ python3 driver.py <input_string>  
-replacing "<input_string>" with any valid string representation of a Sudoku board
+replacing "<input_string>" with any valid string representation of a Sudoku board  
+For Example:  
+![](https://studio.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@sudoku.png)  
+The Sudoku board in the diagram shown above is represented as the string:
+
+00302060090030005001001806400... (and so on)
+
 
 
 
